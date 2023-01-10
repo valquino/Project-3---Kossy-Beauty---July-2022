@@ -1,3 +1,9 @@
+Création d'un site de mise en relation entre les professionnels de la cosmetique et les particuliers au Cameroun
+Il s'agit du 3ème projet de ma formation à la Wild Code School pour un client réel.
+Ce site utilise les langages PHP et Javascript. Il a été développé sous la librairie Symfony. 
+
+----------------------------------------------------------------------------------------------
+
 # Project 3 - Starter Kit - Symfony
 
 ## Presentation
